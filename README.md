@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m @sshilko <br/>
-🔭 I’m currently working at [MessageBird](http://messagebird.com), previously co-created [Tandem](https://www.tandem.net)<br>
+🔭 [MessageBird](http://messagebird.com) 2022+, [Tandem](https://www.tandem.net) 2013-2022<br>
 👯 I’m looking to collaborate on few personal projects<br>
 🤝 I’m offering mentoring<br>
 🌱 I’m always learning <br>
