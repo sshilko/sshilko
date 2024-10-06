@@ -1,10 +1,10 @@
 # 💫 About Me:
 👋 Hi, I’m @sshilko <br/>
-🔭 [MessageBird](http://messagebird.com) 2022+, [Tandem](https://www.tandem.net) 2013-2022<br>
+🔭 Stay at home investor 2024+, [Bird.com](http://messagebird.com) 2022+, [Tandem](https://www.tandem.net) 2013-2022<br>
 👯 I’m looking to collaborate on few personal projects<br>
 🤝 I’m offering mentoring<br>
 🌱 I’m always learning <br>
-💬 Ask me about AWS, Startups, Gaming, Linux, Software Engineering, Expat life<br>
+💬 Ask me about AWS, Startups, Gaming, Linux, Software Engineering, Go, Berlin/Germany Expat life<br>
 📫 Reach me via [sshilko.com](https://moar.sshilko.com/about/)
 
 
